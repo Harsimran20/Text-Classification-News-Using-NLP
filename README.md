@@ -51,7 +51,7 @@ Open news_classifier.ipynb in Jupyter Notebook and execute all cells.
 
 📝 Example Output
 
-              precision    recall  f1-score   support
+                precision    recall  f1-score   support
 
    business       0.80      0.75      0.77        20
    sports         0.85      0.90      0.87        20
@@ -59,6 +59,7 @@ Open news_classifier.ipynb in Jupyter Notebook and execute all cells.
    technology     0.90      0.85      0.87        20
 
    accuracy                          0.83        80
+
 
 📄 License
 
